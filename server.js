@@ -22,5 +22,5 @@ io.on('connection', function(socket){
 });
 
 http.listen(3000, function() {
-  console.log('1.1.1.1 on *:3000');
+  console.log('dragonking-bin.github.io on *:3000');
 });
